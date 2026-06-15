@@ -1,0 +1,71 @@
+/* Estilos globais e tema (dark) da aplicação.
+   As variáveis CSS (--cor) deixam o tema fácil de ajustar em um só lugar. */
+
+:root {
+  --bg: #0e0e17;
+  --surface: #181826;
+  --surface-2: #21212f;
+  --border: #2c2c3d;
+  --text: #ececf1;
+  --text-muted: #9a9ab0;
+  --accent: #7c3aed;
+  --accent-2: #2563eb;
+
+  font-family: 'Segoe UI', system-ui, -apple-system, Roboto, Helvetica, Arial,
+    sans-serif;
+  color-scheme: dark;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: var(--bg);
+  color: var(--text);
+  line-height: 1.5;
+  -webkit-font-smoothing: antialiased;
+}
+
+a {
+  color: inherit;
+}
+
+h1,
+h2,
+h3 {
+  line-height: 1.2;
+}
+
+/* Layout geral da aplicação */
+.app {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.app__main {
+  flex: 1;
+  width: 100%;
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 2rem 1.25rem;
+}
+
+.app__footer {
+  border-top: 1px solid var(--border);
+  padding: 1.25rem;
+  text-align: center;
+  color: var(--text-muted);
+  font-size: 0.85rem;
+}
+
+/* Acessibilidade: respeita quem prefere menos animações */
+@media (prefers-reduced-motion: reduce) {
+  * {
+    animation-duration: 0.01ms !important;
+    transition-duration: 0.01ms !important;
+  }
+}
