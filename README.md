@@ -1,6 +1,6 @@
 # GameVault — Catálogo de Jogos
 
-MVP da disciplina **Desenvolvimento Front-end Avançado** — Full Stack (PUC-Rio).
+MVP da disciplina **Desenvolvimento Front-end Avançado** (PUC-Rio).
 
 GameVault é um catálogo de jogos onde o usuário pode **navegar pelos jogos**, **buscar e filtrar** por gênero, **ver os detalhes** de cada título e **gerenciar o catálogo** com um CRUD completo: **criar, editar (nome, imagem e nota) e excluir** jogos.
 
@@ -81,7 +81,7 @@ mvp-puc-frontavancado/
 
 1. **Clone o repositório**
    ```bash
-   git clone https://github.com/SEU-USUARIO/mvp-puc-frontavancado.git
+   git clone https://github.com/horizonNEvent/mvp-puc-frontavancado.git
    cd mvp-puc-frontavancado
    ```
 
@@ -106,7 +106,11 @@ npm run build      # gera a versão otimizada na pasta /dist
 npm run preview    # pré-visualiza o build localmente
 ```
 
-> **Dica:** as alterações do CRUD ficam salvas no localStorage. Para restaurar os jogos originais do `games.json`, limpe o armazenamento do site no navegador (DevTools → Application → Local Storage → remover a chave `gamevault:games`).
+> **Dica:** as alterações do CRUD ficam salvas no localStorage. Para restaurar os jogos originais do `games.json`, limpe o armazenamento do site no navegador (DevTools → Application → Local Storage → remover a chave `gamevault:games:v2`).
+
+### Repositório relacionado (opcional)
+
+- **API REST complementar:** https://github.com/horizonNEvent/mvp-puc-backendavancado
 
 ---
 
@@ -152,4 +156,4 @@ npm run preview    # pré-visualiza o build localmente
 
 ## Autor
 
-Projeto desenvolvido para a disciplina de Desenvolvimento Front-end Avançado — PUC-Rio.
+**horizonNEvent** — Projeto desenvolvido para a disciplina de Desenvolvimento Front-end Avançado — PUC-Rio.
