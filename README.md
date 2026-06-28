@@ -32,6 +32,8 @@ GameVault é um catálogo de jogos onde o usuário pode **navegar pelos jogos**,
 - [Node.js](https://nodejs.org/) — ambiente de execução
 - CSS puro (com variáveis de tema)
 
+---
+
 ## Estrutura do projeto
 
 ```
@@ -65,11 +67,14 @@ mvp-puc-frontavancado/
     └── data/
         └── games.json           # Dados iniciais (banco simulado)
 ```
+---
 
 ## Instalação e execução
 
 ### Pré-requisitos
 - [Node.js](https://nodejs.org/) instalado (versão 18 ou superior)
+
+---
 
 ### Passo a passo
 
@@ -94,6 +99,8 @@ mvp-puc-frontavancado/
    http://localhost:5173
    ```
 
+---
+
 ### Build de produção (opcional)
 ```bash
 npm run build      # gera a versão otimizada na pasta /dist
@@ -101,6 +108,8 @@ npm run preview    # pré-visualiza o build localmente
 ```
 
 > **Dica:** as alterações do CRUD ficam salvas no localStorage. Para restaurar os jogos originais do `games.json`, limpe o armazenamento do site no navegador (DevTools → Application → Local Storage → remover a chave `gamevault:games:v2`).
+
+---
 
 ## Rotas da aplicação
 
@@ -110,6 +119,8 @@ npm run preview    # pré-visualiza o build localmente
 | `/jogo/:id` | Detalhe | Informações completas de um jogo |
 | `/gerenciar` | Gerenciar Jogos | CRUD: criar, editar e excluir jogos |
 | `*` | 404 | Página de erro para rotas inexistentes |
+
+---
 
 ## Autor
 
