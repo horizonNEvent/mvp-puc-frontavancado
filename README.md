@@ -6,8 +6,6 @@ GameVault é um catálogo de jogos onde o usuário pode **navegar pelos jogos**,
 
 > As "requisições ao servidor" são **simuladas** através da leitura de um arquivo JSON local (`src/data/games.json`). As alterações feitas no CRUD ficam salvas no navegador (localStorage), para não se perderem ao recarregar a página.
 
----
-
 ## Funcionalidades
 
 - **Catálogo** com cards de jogos (imagem, nota e gênero)
@@ -33,8 +31,6 @@ GameVault é um catálogo de jogos onde o usuário pode **navegar pelos jogos**,
 - [Vite](https://vitejs.dev/) — ambiente de desenvolvimento e build
 - [Node.js](https://nodejs.org/) — ambiente de execução
 - CSS puro (com variáveis de tema)
-
----
 
 ## Estrutura do projeto
 
@@ -69,8 +65,6 @@ mvp-puc-frontavancado/
     └── data/
         └── games.json           # Dados iniciais (banco simulado)
 ```
-
----
 
 ## Instalação e execução
 
@@ -108,12 +102,6 @@ npm run preview    # pré-visualiza o build localmente
 
 > **Dica:** as alterações do CRUD ficam salvas no localStorage. Para restaurar os jogos originais do `games.json`, limpe o armazenamento do site no navegador (DevTools → Application → Local Storage → remover a chave `gamevault:games:v2`).
 
-### Repositório relacionado (opcional)
-
-- **API REST complementar:** https://github.com/horizonNEvent/mvp-puc-backendavancado
-
----
-
 ## Rotas da aplicação
 
 | Rota | Página | Descrição |
@@ -122,37 +110,6 @@ npm run preview    # pré-visualiza o build localmente
 | `/jogo/:id` | Detalhe | Informações completas de um jogo |
 | `/gerenciar` | Gerenciar Jogos | CRUD: criar, editar e excluir jogos |
 | `*` | 404 | Página de erro para rotas inexistentes |
-
----
-
-## Como o projeto atende aos requisitos do MVP
-
-### Componentização (3,5 pts)
-- Aplicação dividida em **3 páginas** + componentes reutilizáveis.
-- **Mais de 4 componentes reutilizados** em páginas diferentes: `Header`, `GameCard`, `Button`, `Alert`, `SearchBar`, `Tooltip`, `Loader`, `Modal`, `GameForm`.
-- Requisições **simuladas** via leitura do JSON local.
-
-### React e Roteamento (2,5 pts)
-- Uso de **estados, props, hooks e Context** (`useState`, `useEffect`, `useContext`).
-- **CRUD completo** (criar, ler, atualizar e excluir) com persistência.
-- Navegação com **React Router** e os 3 hooks exigidos:
-  - `useNavigate` → botões "Ver detalhes", "Voltar", etc.
-  - `useParams` → captura do `:id` na página de detalhe
-  - `useLocation` → link ativo no Header e exibição da URL no 404
-- **Rota 404** para URLs inexistentes.
-
-### Usabilidade (2,0 pts)
-- Feedback visual (loaders, alertas de sucesso/erro).
-- **Tooltips** explicativas e **modais** de formulário e confirmação.
-- Mensagens condicionais ("nenhum jogo encontrado", "lista vazia").
-- **Layout responsivo** para diferentes telas.
-
-### Organização e documentação (2,0 pts)
-- Estrutura de pastas clara e nomenclatura consistente.
-- Este `README.md` completo.
-- Projeto pronto para hospedagem pública no GitHub.
-
----
 
 ## Autor
 
