@@ -10,7 +10,8 @@ function Header() {
   const location = useLocation()
 
   const links = [
-    { path: '/', label: 'Catálogo' },
+    { path: '/', label: 'Catálogo', exact: true },
+    { path: '/aleatorio', label: 'Aleatório' },
     { path: '/gerenciar', label: 'Gerenciar Jogos' },
   ]
 
@@ -25,7 +26,9 @@ function Header() {
 
         <nav className="header__nav">
           {links.map((link) => {
-            const isActive = location.pathname === link.path
+            const isActive = link.exact
+              ? location.pathname === link.path
+              : location.pathname.startsWith(link.path)
             return (
               <Link
                 key={link.path}

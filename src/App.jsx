@@ -7,6 +7,7 @@ import Header from './components/Header'
 import Catalog from './pages/Catalog'
 import GameDetail from './pages/GameDetail'
 import Manage from './pages/Manage'
+import Random from './pages/Random'
 import NotFound from './pages/NotFound'
 
 function App() {
@@ -24,6 +25,9 @@ function App() {
 
           {/* Página 3 - Gerenciar Jogos (CRUD) */}
           <Route path="/gerenciar" element={<Manage />} />
+
+          {/* Página 4 - Jogo Aleatório (sorteio + animação Spline) */}
+          <Route path="/aleatorio" element={<Random />} />
 
           {/* Rota de erro 404 para qualquer URL inexistente */}
           <Route path="*" element={<NotFound />} />

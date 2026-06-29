@@ -54,11 +54,13 @@ mvp-puc-frontavancado/
     │   ├── Tooltip.jsx
     │   ├── Loader.jsx
     │   ├── Modal.jsx            # Janela reutilizável (form e confirmação)
-    │   └── GameForm.jsx         # Formulário de criar/editar jogo
+    │   ├── GameForm.jsx         # Formulário de criar/editar jogo
+    │   └── SplineDice.jsx       # Embed 3D Spline (dados) — página Aleatório
     ├── pages/                   # Páginas da aplicação
     │   ├── Catalog.jsx          # Página 1 - Catálogo
     │   ├── GameDetail.jsx       # Página 2 - Detalhe
     │   ├── Manage.jsx           # Página 3 - Gerenciar Jogos (CRUD)
+    │   ├── Random.jsx           # Página 4 - Jogo Aleatório
     │   └── NotFound.jsx         # Página 404
     ├── context/
     │   └── GamesContext.jsx     # Estado global dos jogos + CRUD + persistência
@@ -118,6 +120,7 @@ npm run preview    # pré-visualiza o build localmente
 | `/` | Catálogo | Lista de jogos com busca e filtro |
 | `/jogo/:id` | Detalhe | Informações completas de um jogo |
 | `/gerenciar` | Gerenciar Jogos | CRUD: criar, editar e excluir jogos |
+| `/aleatorio` | Jogo Aleatório | Sorteia um jogo com animação de dados (Spline) |
 | `*` | 404 | Página de erro para rotas inexistentes |
 
 ---

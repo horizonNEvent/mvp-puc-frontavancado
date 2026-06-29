@@ -1,0 +1,45 @@
+.spline-dice {
+  width: 100%;
+  max-width: 420px;
+  aspect-ratio: 1;
+  margin: 0 auto;
+  border-radius: 16px;
+  overflow: hidden;
+  border: 1px solid var(--border);
+  background: var(--surface);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.spline-dice iframe {
+  width: 100%;
+  height: 100%;
+  border: none;
+  pointer-events: none;
+}
+
+.spline-dice--rolling {
+  animation: dice-shake 0.45s ease-in-out infinite;
+  box-shadow: 0 0 32px rgba(124, 58, 237, 0.35);
+}
+
+@keyframes dice-shake {
+  0%,
+  100% {
+    transform: rotate(-2deg) scale(1);
+  }
+  25% {
+    transform: rotate(3deg) scale(1.02);
+  }
+  50% {
+    transform: rotate(-3deg) scale(1.04);
+  }
+  75% {
+    transform: rotate(2deg) scale(1.02);
+  }
+}
+
+@media (max-width: 520px) {
+  .spline-dice {
+    max-width: 280px;
+  }
+}
