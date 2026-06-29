@@ -6,9 +6,16 @@
     "rating": 9.2,
     "year": 2021,
     "developer": "Playground Games",
-    "platforms": ["PC", "Xbox Series X", "Xbox One"],
+    "platforms": [
+      "PC",
+      "Xbox Series X",
+      "Xbox One"
+    ],
     "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1551360/header.jpg",
-    "cover": ["#7C3AED", "#2563EB"],
+    "cover": [
+      "#7C3AED",
+      "#2563EB"
+    ],
     "description": "Explore os cenários vibrantes e em constante evolução do México em um mundo aberto repleto de carros lendários. Dirija, derrape e participe de eventos espetaculares neste que é um dos maiores jogos de corrida da atualidade."
   },
   {
@@ -18,9 +25,17 @@
     "rating": 9.4,
     "year": 2017,
     "developer": "Team Cherry",
-    "platforms": ["PC", "Nintendo Switch", "PlayStation 4", "Xbox One"],
+    "platforms": [
+      "PC",
+      "Nintendo Switch",
+      "PlayStation 4",
+      "Xbox One"
+    ],
     "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/367520/header.jpg",
-    "cover": ["#059669", "#065F46"],
+    "cover": [
+      "#059669",
+      "#065F46"
+    ],
     "description": "Desça às profundezas de Hallownest, um vasto reino subterrâneo em ruínas. Um metroidvania desenhado à mão, com combate desafiador, exploração profunda e uma atmosfera melancólica inesquecível."
   },
   {
@@ -30,9 +45,18 @@
     "rating": 9.5,
     "year": 2016,
     "developer": "ConcernedApe",
-    "platforms": ["PC", "Nintendo Switch", "PlayStation 4", "Xbox One", "Mobile"],
+    "platforms": [
+      "PC",
+      "Nintendo Switch",
+      "PlayStation 4",
+      "Xbox One",
+      "Mobile"
+    ],
     "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/413150/header.jpg",
-    "cover": ["#D97706", "#B45309"],
+    "cover": [
+      "#D97706",
+      "#B45309"
+    ],
     "description": "Herde a velha fazenda do seu avô e comece uma nova vida no campo. Plante, crie animais, faça amizades, explore cavernas e descubra os segredos do Vale do Pelicano neste aconchegante simulador de fazenda."
   },
   {
@@ -42,9 +66,16 @@
     "rating": 8.8,
     "year": 2020,
     "developer": "CD PROJEKT RED",
-    "platforms": ["PC", "PlayStation 5", "Xbox Series X"],
+    "platforms": [
+      "PC",
+      "PlayStation 5",
+      "Xbox Series X"
+    ],
     "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1091500/header.jpg",
-    "cover": ["#DB2777", "#7C3AED"],
+    "cover": [
+      "#DB2777",
+      "#7C3AED"
+    ],
     "description": "Viva como V, um mercenário em Night City, uma megalópole obcecada por poder, glamour e modificações corporais. Um RPG de ação em mundo aberto com uma narrativa intensa e liberdade de escolha."
   },
   {
@@ -54,9 +85,16 @@
     "rating": 9.6,
     "year": 2011,
     "developer": "Valve",
-    "platforms": ["PC", "PlayStation 3", "Xbox 360"],
+    "platforms": [
+      "PC",
+      "PlayStation 3",
+      "Xbox 360"
+    ],
     "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/620/header.jpg",
-    "cover": ["#0891B2", "#0E7490"],
+    "cover": [
+      "#0891B2",
+      "#0E7490"
+    ],
     "description": "Resolva quebra-cabeças mentais com a icônica arma de portais. Com humor afiado, personagens memoráveis e um modo cooperativo genial, é considerado um dos melhores jogos de puzzle já feitos."
   },
   {
@@ -66,9 +104,16 @@
     "rating": 8.7,
     "year": 2016,
     "developer": "Paradox Development Studio",
-    "platforms": ["PC", "PlayStation 4", "Xbox One"],
+    "platforms": [
+      "PC",
+      "PlayStation 4",
+      "Xbox One"
+    ],
     "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/281990/header.jpg",
-    "cover": ["#4F46E5", "#1E3A8A"],
+    "cover": [
+      "#4F46E5",
+      "#1E3A8A"
+    ],
     "description": "Comande um império galáctico e explore o espaço profundo neste grande jogo de estratégia 4X. Pesquise tecnologias, faça diplomacia, colonize planetas e enfrente ameaças cósmicas imprevisíveis."
   },
   {
@@ -78,9 +123,16 @@
     "rating": 9.5,
     "year": 2022,
     "developer": "FromSoftware",
-    "platforms": ["PC", "PlayStation 5", "Xbox Series X"],
+    "platforms": [
+      "PC",
+      "PlayStation 5",
+      "Xbox Series X"
+    ],
     "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1245620/header.jpg",
-    "cover": ["#E11D48", "#9D174D"],
+    "cover": [
+      "#E11D48",
+      "#9D174D"
+    ],
     "description": "Erga-se, Maculado, e percorra as Terras Intermédias em um vasto mundo aberto criado por Hidetaka Miyazaki e George R. R. Martin. Combate desafiador, exploração épica e uma das maiores obras do gênero soulslike."
   },
   {
@@ -90,9 +142,17 @@
     "rating": 9.0,
     "year": 2018,
     "developer": "Unknown Worlds Entertainment",
-    "platforms": ["PC", "PlayStation 4", "Xbox One", "Nintendo Switch"],
+    "platforms": [
+      "PC",
+      "PlayStation 4",
+      "Xbox One",
+      "Nintendo Switch"
+    ],
     "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/264710/header.jpg",
-    "cover": ["#0D9488", "#155E75"],
+    "cover": [
+      "#0D9488",
+      "#155E75"
+    ],
     "description": "Após cair em um planeta oceânico alienígena, mergulhe para sobreviver. Construa bases submarinas, colete recursos e descubra os mistérios das profundezas em uma aventura de sobrevivência única e imersiva."
   },
   {
@@ -102,9 +162,17 @@
     "rating": 9.1,
     "year": 2020,
     "developer": "Thunder Lotus",
-    "platforms": ["PC", "Nintendo Switch", "PlayStation 4", "Xbox One"],
+    "platforms": [
+      "PC",
+      "Nintendo Switch",
+      "PlayStation 4",
+      "Xbox One"
+    ],
     "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/972660/header.jpg",
-    "cover": ["#E11D48", "#9D174D"],
+    "cover": [
+      "#E11D48",
+      "#9D174D"
+    ],
     "description": "Como uma barqueira das almas, cuide de espíritos em sua jornada final antes de partirem. Um jogo de gestão acolhedor e emocionante sobre despedidas, com arte desenhada à mão de tirar o fôlego."
   },
   {
@@ -114,9 +182,17 @@
     "rating": 9.3,
     "year": 2020,
     "developer": "Supergiant Games",
-    "platforms": ["PC", "Nintendo Switch", "PlayStation 5", "Xbox Series X"],
+    "platforms": [
+      "PC",
+      "Nintendo Switch",
+      "PlayStation 5",
+      "Xbox Series X"
+    ],
     "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1145360/header.jpg",
-    "cover": ["#9333EA", "#C026D3"],
+    "cover": [
+      "#9333EA",
+      "#C026D3"
+    ],
     "description": "Desafie o deus dos mortos enquanto luta para sair do Submundo grego. Um roguelike de ação aclamado, com combate viciante, bênçãos dos deuses do Olimpo e uma narrativa que evolui a cada tentativa."
   },
   {
@@ -126,9 +202,17 @@
     "rating": 9.4,
     "year": 2018,
     "developer": "Maddy Makes Games",
-    "platforms": ["PC", "Nintendo Switch", "PlayStation 4", "Xbox One"],
+    "platforms": [
+      "PC",
+      "Nintendo Switch",
+      "PlayStation 4",
+      "Xbox One"
+    ],
     "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/504230/header.jpg",
-    "cover": ["#0891B2", "#0E7490"],
+    "cover": [
+      "#0891B2",
+      "#0E7490"
+    ],
     "description": "Ajude Madeline a escalar a Montanha Celeste enfrentando seus próprios desafios internos. Um jogo de plataforma preciso e desafiador, com uma história sensível sobre ansiedade e superação."
   },
   {
@@ -138,9 +222,1738 @@
     "rating": 8.5,
     "year": 2016,
     "developer": "Hello Games",
-    "platforms": ["PC", "PlayStation 5", "Xbox Series X", "Nintendo Switch"],
+    "platforms": [
+      "PC",
+      "PlayStation 5",
+      "Xbox Series X",
+      "Nintendo Switch"
+    ],
     "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/275850/header.jpg",
-    "cover": ["#4F46E5", "#1E3A8A"],
+    "cover": [
+      "#4F46E5",
+      "#1E3A8A"
+    ],
     "description": "Explore um universo praticamente infinito com bilhões de planetas gerados proceduralmente. Voe entre estrelas, descubra criaturas alienígenas e construa sua jornada espacial do seu jeito."
+  },
+  {
+    "id": 13,
+    "title": "The Witcher 3: Wild Hunt",
+    "genre": "RPG / Mundo Aberto",
+    "rating": 9.7,
+    "year": 2015,
+    "developer": "CD PROJEKT RED",
+    "platforms": [
+      "PC",
+      "PlayStation 4",
+      "PlayStation 5",
+      "Xbox One",
+      "Xbox Series X",
+      "Nintendo Switch"
+    ],
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/292030/header.jpg",
+    "cover": [
+      "#92400E",
+      "#78350F"
+    ],
+    "description": "Assuma o papel de Geralt de Rívia em uma jornada por reinos devastados por guerra, monstros e escolhas difíceis. Um RPG de mundo aberto conhecido por missões marcantes, personagens profundos e exploração rica."
+  },
+  {
+    "id": 14,
+    "title": "Red Dead Redemption 2",
+    "genre": "Ação / Aventura",
+    "rating": 9.6,
+    "year": 2019,
+    "developer": "Rockstar Games",
+    "platforms": [
+      "PC",
+      "PlayStation 4",
+      "Xbox One"
+    ],
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1174180/header.jpg",
+    "cover": [
+      "#B91C1C",
+      "#7F1D1D"
+    ],
+    "description": "Viva o fim da era dos fora da lei como Arthur Morgan em uma aventura cinematográfica pelo Velho Oeste. Caça, assaltos, acampamento e narrativa se misturam em um dos mundos abertos mais detalhados dos games."
+  },
+  {
+    "id": 15,
+    "title": "God of War",
+    "genre": "Ação / Aventura",
+    "rating": 9.5,
+    "year": 2022,
+    "developer": "Santa Monica Studio",
+    "platforms": [
+      "PC",
+      "PlayStation 4",
+      "PlayStation 5"
+    ],
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1593500/header.jpg",
+    "cover": [
+      "#1D4ED8",
+      "#1E3A8A"
+    ],
+    "description": "Kratos recomeça sua vida nas terras nórdicas ao lado de Atreus. Uma aventura intensa que combina combate brutal, exploração, mitologia e uma história emocionante sobre paternidade e legado."
+  },
+  {
+    "id": 16,
+    "title": "Marvel's Spider-Man Remastered",
+    "genre": "Ação / Mundo Aberto",
+    "rating": 9.1,
+    "year": 2022,
+    "developer": "Insomniac Games",
+    "platforms": [
+      "PC",
+      "PlayStation 5"
+    ],
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1817070/header.jpg",
+    "cover": [
+      "#DC2626",
+      "#1D4ED8"
+    ],
+    "description": "Balance pelos arranha-céus de Nova York como Peter Parker em uma aventura ágil e cinematográfica. Combate fluido, travessia espetacular e vilões clássicos tornam cada missão empolgante."
+  },
+  {
+    "id": 17,
+    "title": "Baldur's Gate 3",
+    "genre": "RPG / Estratégia",
+    "rating": 9.7,
+    "year": 2023,
+    "developer": "Larian Studios",
+    "platforms": [
+      "PC",
+      "PlayStation 5",
+      "Xbox Series X"
+    ],
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1086940/header.jpg",
+    "cover": [
+      "#7C2D12",
+      "#991B1B"
+    ],
+    "description": "Monte seu grupo e tome decisões que realmente mudam a jornada neste RPG inspirado em Dungeons & Dragons. Combates por turno, liberdade absurda e personagens memoráveis fazem cada campanha parecer única."
+  },
+  {
+    "id": 18,
+    "title": "Divinity: Original Sin 2",
+    "genre": "RPG / Estratégia",
+    "rating": 9.4,
+    "year": 2017,
+    "developer": "Larian Studios",
+    "platforms": [
+      "PC",
+      "Nintendo Switch",
+      "PlayStation 4",
+      "Xbox One"
+    ],
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/435150/header.jpg",
+    "cover": [
+      "#9333EA",
+      "#581C87"
+    ],
+    "description": "Crie um grupo de heróis improváveis e explore um mundo cheio de magia, escolhas e consequências. O combate tático por turnos recompensa criatividade, posicionamento e combinações elementais."
+  },
+  {
+    "id": 19,
+    "title": "Disco Elysium",
+    "genre": "RPG / Narrativo",
+    "rating": 9.5,
+    "year": 2019,
+    "developer": "ZA/UM",
+    "platforms": [
+      "PC",
+      "Nintendo Switch",
+      "PlayStation 4",
+      "PlayStation 5",
+      "Xbox One",
+      "Xbox Series X"
+    ],
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/632470/header.jpg",
+    "cover": [
+      "#065F46",
+      "#064E3B"
+    ],
+    "description": "Acorde como um detetive quebrado em uma cidade decadente e investigue um crime enquanto conversa com suas próprias emoções. Um RPG narrativo brilhante, político, estranho e cheio de escolhas."
+  },
+  {
+    "id": 20,
+    "title": "Mass Effect Legendary Edition",
+    "genre": "RPG / Ficção Científica",
+    "rating": 9.3,
+    "year": 2021,
+    "developer": "BioWare",
+    "platforms": [
+      "PC",
+      "PlayStation 4",
+      "Xbox One"
+    ],
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1328670/header.jpg",
+    "cover": [
+      "#1E40AF",
+      "#111827"
+    ],
+    "description": "Reviva a trilogia do Comandante Shepard em uma saga espacial sobre alianças, guerra e sobrevivência da galáxia. Suas decisões acompanham a jornada e moldam relações, missões e consequências."
+  },
+  {
+    "id": 21,
+    "title": "Dragon Age: Inquisition",
+    "genre": "RPG / Fantasia",
+    "rating": 8.6,
+    "year": 2014,
+    "developer": "BioWare",
+    "platforms": [
+      "PC",
+      "PlayStation 4",
+      "Xbox One"
+    ],
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1222690/header.jpg",
+    "cover": [
+      "#4C1D95",
+      "#312E81"
+    ],
+    "description": "Lidere a Inquisição para enfrentar uma ameaça mágica que rasga o céu de Thedas. Um RPG de fantasia com exploração, companheiros carismáticos e decisões políticas em meio a uma crise continental."
+  },
+  {
+    "id": 22,
+    "title": "The Elder Scrolls V: Skyrim Special Edition",
+    "genre": "RPG / Mundo Aberto",
+    "rating": 9.3,
+    "year": 2016,
+    "developer": "Bethesda Game Studios",
+    "platforms": [
+      "PC",
+      "PlayStation 4",
+      "PlayStation 5",
+      "Xbox One",
+      "Xbox Series X",
+      "Nintendo Switch"
+    ],
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/489830/header.jpg",
+    "cover": [
+      "#334155",
+      "#0F172A"
+    ],
+    "description": "Explore a província gelada de Skyrim como o Dragonborn, enfrentando dragões, guildas, ruínas antigas e guerras civis. Um RPG enorme, livre e famoso pela quantidade de aventuras paralelas."
+  },
+  {
+    "id": 23,
+    "title": "Fallout 4",
+    "genre": "RPG / Pós-apocalíptico",
+    "rating": 8.7,
+    "year": 2015,
+    "developer": "Bethesda Game Studios",
+    "platforms": [
+      "PC",
+      "PlayStation 4",
+      "Xbox One"
+    ],
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/377160/header.jpg",
+    "cover": [
+      "#16A34A",
+      "#14532D"
+    ],
+    "description": "Saia do Vault e percorra uma Boston destruída por bombas nucleares. Com exploração, construção de assentamentos e escolhas morais, o jogo mistura tiro, RPG e sobrevivência em um mundo devastado."
+  },
+  {
+    "id": 24,
+    "title": "The Outer Worlds",
+    "genre": "RPG / Ficção Científica",
+    "rating": 8.5,
+    "year": 2019,
+    "developer": "Obsidian Entertainment",
+    "platforms": [
+      "PC",
+      "Nintendo Switch",
+      "PlayStation 4",
+      "Xbox One"
+    ],
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/578650/header.jpg",
+    "cover": [
+      "#0E7490",
+      "#164E63"
+    ],
+    "description": "Viaje por colônias corporativas absurdas em uma aventura espacial cheia de humor ácido. Suas decisões afetam facções, companheiros e o destino de Halcyon."
+  },
+  {
+    "id": 25,
+    "title": "Kingdom Come: Deliverance",
+    "genre": "RPG / Medieval",
+    "rating": 8.6,
+    "year": 2018,
+    "developer": "Warhorse Studios",
+    "platforms": [
+      "PC",
+      "PlayStation 4",
+      "Xbox One",
+      "Nintendo Switch"
+    ],
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/379430/header.jpg",
+    "cover": [
+      "#A16207",
+      "#713F12"
+    ],
+    "description": "Viva uma jornada medieval realista na Boêmia do século XV. O jogo aposta em combate exigente, progressão lenta e uma ambientação histórica cheia de detalhes."
+  },
+  {
+    "id": 26,
+    "title": "Monster Hunter: World",
+    "genre": "Ação / RPG",
+    "rating": 9.0,
+    "year": 2018,
+    "developer": "Capcom",
+    "platforms": [
+      "PC",
+      "PlayStation 4",
+      "Xbox One"
+    ],
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/582010/header.jpg",
+    "cover": [
+      "#15803D",
+      "#166534"
+    ],
+    "description": "Caçe criaturas gigantes em ecossistemas vivos, colete materiais e crie equipamentos cada vez melhores. Cada monstro exige observação, preparo e domínio das armas."
+  },
+  {
+    "id": 27,
+    "title": "Monster Hunter Rise",
+    "genre": "Ação / RPG",
+    "rating": 8.8,
+    "year": 2022,
+    "developer": "Capcom",
+    "platforms": [
+      "PC",
+      "Nintendo Switch",
+      "PlayStation 4",
+      "PlayStation 5",
+      "Xbox One",
+      "Xbox Series X"
+    ],
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1446780/header.jpg",
+    "cover": [
+      "#EA580C",
+      "#9A3412"
+    ],
+    "description": "Enfrente monstros colossais com movimentação ágil, companheiros animais e o uso dos cabinsetos. Uma versão mais veloz e vertical da fórmula Monster Hunter."
+  },
+  {
+    "id": 28,
+    "title": "Resident Evil 2",
+    "genre": "Terror / Sobrevivência",
+    "rating": 9.2,
+    "year": 2019,
+    "developer": "Capcom",
+    "platforms": [
+      "PC",
+      "PlayStation 4",
+      "PlayStation 5",
+      "Xbox One",
+      "Xbox Series X"
+    ],
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/883710/header.jpg",
+    "cover": [
+      "#991B1B",
+      "#111827"
+    ],
+    "description": "Retorne a Raccoon City no remake de um clássico do terror. Recursos escassos, zumbis resistentes e perseguições tensas criam uma experiência de sobrevivência sufocante."
+  },
+  {
+    "id": 29,
+    "title": "Resident Evil 4",
+    "genre": "Terror / Ação",
+    "rating": 9.4,
+    "year": 2023,
+    "developer": "Capcom",
+    "platforms": [
+      "PC",
+      "PlayStation 4",
+      "PlayStation 5",
+      "Xbox Series X"
+    ],
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/2050650/header.jpg",
+    "cover": [
+      "#7F1D1D",
+      "#292524"
+    ],
+    "description": "Leon S. Kennedy parte para resgatar a filha do presidente em uma vila isolada. O remake moderniza combate, tensão e exploração mantendo o ritmo marcante do clássico."
+  },
+  {
+    "id": 30,
+    "title": "Resident Evil Village",
+    "genre": "Terror / Ação",
+    "rating": 8.7,
+    "year": 2021,
+    "developer": "Capcom",
+    "platforms": [
+      "PC",
+      "PlayStation 4",
+      "PlayStation 5",
+      "Xbox One",
+      "Xbox Series X"
+    ],
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1196590/header.jpg",
+    "cover": [
+      "#1F2937",
+      "#7C2D12"
+    ],
+    "description": "Ethan Winters enfrenta horrores em uma vila europeia cercada por castelos, criaturas e segredos familiares. Mistura ação, terror gótico e momentos de grande tensão."
+  },
+  {
+    "id": 31,
+    "title": "Control Ultimate Edition",
+    "genre": "Ação / Sobrenatural",
+    "rating": 8.8,
+    "year": 2020,
+    "developer": "Remedy Entertainment",
+    "platforms": [
+      "PC",
+      "PlayStation 4",
+      "PlayStation 5",
+      "Xbox One",
+      "Xbox Series X"
+    ],
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/870780/header.jpg",
+    "cover": [
+      "#B91C1C",
+      "#1F2937"
+    ],
+    "description": "Entre na Antiga Casa como Jesse Faden e descubra fenômenos paranormais dentro de uma agência secreta. Tiro, poderes telecinéticos e arquitetura impossível criam uma atmosfera única."
+  },
+  {
+    "id": 32,
+    "title": "Death Stranding Director's Cut",
+    "genre": "Aventura / Exploração",
+    "rating": 8.6,
+    "year": 2022,
+    "developer": "KOJIMA PRODUCTIONS",
+    "platforms": [
+      "PC",
+      "PlayStation 5"
+    ],
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1850570/header.jpg",
+    "cover": [
+      "#0F766E",
+      "#134E4A"
+    ],
+    "description": "Atravesse uma América fragmentada entregando cargas, conectando comunidades e enfrentando ameaças invisíveis. Uma experiência contemplativa sobre isolamento, conexão e persistência."
+  },
+  {
+    "id": 33,
+    "title": "Metal Gear Solid V: The Phantom Pain",
+    "genre": "Ação / Stealth",
+    "rating": 9.1,
+    "year": 2015,
+    "developer": "Kojima Productions",
+    "platforms": [
+      "PC",
+      "PlayStation 3",
+      "PlayStation 4",
+      "Xbox 360",
+      "Xbox One"
+    ],
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/287700/header.jpg",
+    "cover": [
+      "#4B5563",
+      "#111827"
+    ],
+    "description": "Infiltre bases inimigas em missões abertas, usando furtividade, distrações, aliados e criatividade. Um jogo de ação tática com sistemas profundos e liberdade para improvisar."
+  },
+  {
+    "id": 34,
+    "title": "Sekiro: Shadows Die Twice",
+    "genre": "Ação / Soulslike",
+    "rating": 9.3,
+    "year": 2019,
+    "developer": "FromSoftware",
+    "platforms": [
+      "PC",
+      "PlayStation 4",
+      "Xbox One"
+    ],
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/814380/header.jpg",
+    "cover": [
+      "#B45309",
+      "#7C2D12"
+    ],
+    "description": "Como um shinobi leal, enfrente guerreiros, monstros e chefes brutais no Japão fantástico. O foco em aparar golpes torna o combate intenso, técnico e extremamente recompensador."
+  },
+  {
+    "id": 35,
+    "title": "Dark Souls III",
+    "genre": "RPG / Soulslike",
+    "rating": 9.1,
+    "year": 2016,
+    "developer": "FromSoftware",
+    "platforms": [
+      "PC",
+      "PlayStation 4",
+      "Xbox One"
+    ],
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/374320/header.jpg",
+    "cover": [
+      "#57534E",
+      "#1C1917"
+    ],
+    "description": "Atravesse reinos decadentes em busca dos Senhores das Cinzas. Combate preciso, chefes memoráveis e atmosfera sombria encerram uma das trilogias mais influentes dos RPGs de ação."
+  },
+  {
+    "id": 36,
+    "title": "Lies of P",
+    "genre": "Ação / Soulslike",
+    "rating": 8.8,
+    "year": 2023,
+    "developer": "NEOWIZ",
+    "platforms": [
+      "PC",
+      "PlayStation 4",
+      "PlayStation 5",
+      "Xbox One",
+      "Xbox Series X"
+    ],
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1627720/header.jpg",
+    "cover": [
+      "#7C2D12",
+      "#111827"
+    ],
+    "description": "Uma releitura sombria de Pinóquio em uma cidade tomada por autômatos violentos. O jogo combina combate metódico, armas customizáveis e uma estética belle époque decadente."
+  },
+  {
+    "id": 37,
+    "title": "Nioh 2",
+    "genre": "Ação / RPG",
+    "rating": 8.9,
+    "year": 2021,
+    "developer": "Team NINJA",
+    "platforms": [
+      "PC",
+      "PlayStation 4",
+      "PlayStation 5"
+    ],
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1325200/header.jpg",
+    "cover": [
+      "#6D28D9",
+      "#1E1B4B"
+    ],
+    "description": "Enfrente yokais e guerreiros no Japão Sengoku em combates rápidos e técnicos. Posturas, loot e builds tornam cada personagem altamente personalizável."
+  },
+  {
+    "id": 38,
+    "title": "Cuphead",
+    "genre": "Plataforma / Ação",
+    "rating": 9.0,
+    "year": 2017,
+    "developer": "Studio MDHR",
+    "platforms": [
+      "PC",
+      "Nintendo Switch",
+      "PlayStation 4",
+      "Xbox One"
+    ],
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/268910/header.jpg",
+    "cover": [
+      "#DC2626",
+      "#F59E0B"
+    ],
+    "description": "Encare chefes difíceis em um desenho animado jogável inspirado nos anos 1930. Visual artesanal, jazz acelerado e precisão nos controles tornam cada vitória memorável."
+  },
+  {
+    "id": 39,
+    "title": "Ori and the Blind Forest: Definitive Edition",
+    "genre": "Aventura / Metroidvania",
+    "rating": 9.1,
+    "year": 2016,
+    "developer": "Moon Studios",
+    "platforms": [
+      "PC",
+      "Nintendo Switch",
+      "Xbox One"
+    ],
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/387290/header.jpg",
+    "cover": [
+      "#2563EB",
+      "#0F766E"
+    ],
+    "description": "Acompanhe Ori em uma floresta mágica ameaçada pela escuridão. Plataforma fluida, trilha sonora emocionante e exploração delicada criam uma aventura inesquecível."
+  },
+  {
+    "id": 40,
+    "title": "Ori and the Will of the Wisps",
+    "genre": "Aventura / Metroidvania",
+    "rating": 9.2,
+    "year": 2020,
+    "developer": "Moon Studios",
+    "platforms": [
+      "PC",
+      "Nintendo Switch",
+      "Xbox One",
+      "Xbox Series X"
+    ],
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1057090/header.jpg",
+    "cover": [
+      "#0EA5E9",
+      "#1E40AF"
+    ],
+    "description": "Ori retorna em uma jornada ainda mais bonita, com combate expandido e cenários exuberantes. Um metroidvania emocional, preciso e visualmente impressionante."
+  },
+  {
+    "id": 41,
+    "title": "Dead Cells",
+    "genre": "Ação / Roguelike",
+    "rating": 9.0,
+    "year": 2018,
+    "developer": "Motion Twin",
+    "platforms": [
+      "PC",
+      "Nintendo Switch",
+      "PlayStation 4",
+      "Xbox One",
+      "Mobile"
+    ],
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/588650/header.jpg",
+    "cover": [
+      "#DC2626",
+      "#7C3AED"
+    ],
+    "description": "Explore uma ilha mutante em partidas rápidas, violentas e sempre diferentes. Combate responsivo, armas variadas e progressão roguelite garantem vontade de tentar só mais uma vez."
+  },
+  {
+    "id": 42,
+    "title": "Slay the Spire",
+    "genre": "Cartas / Roguelike",
+    "rating": 9.2,
+    "year": 2019,
+    "developer": "Mega Crit",
+    "platforms": [
+      "PC",
+      "Nintendo Switch",
+      "PlayStation 4",
+      "Xbox One",
+      "Mobile"
+    ],
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/646570/header.jpg",
+    "cover": [
+      "#BE123C",
+      "#7F1D1D"
+    ],
+    "description": "Monte um baralho poderoso enquanto escala uma torre cheia de inimigos e relíquias. Estratégia, risco e sinergias transformam cada rota em um novo quebra-cabeça."
+  },
+  {
+    "id": 43,
+    "title": "Balatro",
+    "genre": "Cartas / Roguelike",
+    "rating": 9.1,
+    "year": 2024,
+    "developer": "LocalThunk",
+    "platforms": [
+      "PC",
+      "Nintendo Switch",
+      "PlayStation 4",
+      "PlayStation 5",
+      "Xbox One",
+      "Xbox Series X"
+    ],
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/2379780/header.jpg",
+    "cover": [
+      "#7C3AED",
+      "#C026D3"
+    ],
+    "description": "Transforme mãos de pôquer em combos absurdos usando curingas, multiplicadores e regras quebradas. Simples de entender, difícil de largar e cheio de estratégias emergentes."
+  },
+  {
+    "id": 44,
+    "title": "Vampire Survivors",
+    "genre": "Ação / Roguelike",
+    "rating": 8.9,
+    "year": 2022,
+    "developer": "poncle",
+    "platforms": [
+      "PC",
+      "Nintendo Switch",
+      "Xbox One",
+      "Xbox Series X",
+      "Mobile"
+    ],
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1794680/header.jpg",
+    "cover": [
+      "#831843",
+      "#4A044E"
+    ],
+    "description": "Sobreviva a hordas infinitas enquanto seu personagem dispara automaticamente. Evoluções de armas, caos na tela e partidas curtas fazem dele um dos roguelites mais viciantes."
+  },
+  {
+    "id": 45,
+    "title": "Risk of Rain 2",
+    "genre": "Ação / Roguelike",
+    "rating": 8.8,
+    "year": 2020,
+    "developer": "Hopoo Games",
+    "platforms": [
+      "PC",
+      "Nintendo Switch",
+      "PlayStation 4",
+      "Xbox One"
+    ],
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/632360/header.jpg",
+    "cover": [
+      "#EA580C",
+      "#7C2D12"
+    ],
+    "description": "Lute contra ondas de criaturas alienígenas em fases 3D onde o tempo aumenta a dificuldade. Itens empilháveis criam combinações insanas e corridas imprevisíveis."
+  },
+  {
+    "id": 46,
+    "title": "Terraria",
+    "genre": "Sandbox / Aventura",
+    "rating": 9.3,
+    "year": 2011,
+    "developer": "Re-Logic",
+    "platforms": [
+      "PC",
+      "Nintendo Switch",
+      "PlayStation 4",
+      "Xbox One",
+      "Mobile"
+    ],
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/105600/header.jpg",
+    "cover": [
+      "#16A34A",
+      "#065F46"
+    ],
+    "description": "Cave, construa, explore e enfrente chefes em um mundo 2D cheio de segredos. A progressão por biomas, equipamentos e eventos torna cada campanha enorme."
+  },
+  {
+    "id": 47,
+    "title": "Valheim",
+    "genre": "Sobrevivência / Sandbox",
+    "rating": 8.8,
+    "year": 2021,
+    "developer": "Iron Gate Studio",
+    "platforms": [
+      "PC",
+      "Xbox One",
+      "Xbox Series X"
+    ],
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/892970/header.jpg",
+    "cover": [
+      "#0F766E",
+      "#713F12"
+    ],
+    "description": "Sobreviva em um purgatório viking gerado proceduralmente. Construa bases, navegue, derrote chefes e explore florestas, pântanos e montanhas com amigos."
+  },
+  {
+    "id": 48,
+    "title": "Don't Starve Together",
+    "genre": "Sobrevivência",
+    "rating": 8.9,
+    "year": 2016,
+    "developer": "Klei Entertainment",
+    "platforms": [
+      "PC",
+      "PlayStation 4",
+      "Xbox One"
+    ],
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/322330/header.jpg",
+    "cover": [
+      "#92400E",
+      "#451A03"
+    ],
+    "description": "Tente não morrer de fome em um mundo estranho, hostil e cheio de criaturas bizarras. A cooperação ajuda, mas o frio, a sanidade e a escuridão continuam ameaçando."
+  },
+  {
+    "id": 49,
+    "title": "The Forest",
+    "genre": "Terror / Sobrevivência",
+    "rating": 8.7,
+    "year": 2018,
+    "developer": "Endnight Games",
+    "platforms": [
+      "PC",
+      "PlayStation 4"
+    ],
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/242760/header.jpg",
+    "cover": [
+      "#166534",
+      "#111827"
+    ],
+    "description": "Após um acidente aéreo, sobreviva em uma ilha ocupada por canibais. Construa abrigos, explore cavernas e descubra uma história sombria escondida no local."
+  },
+  {
+    "id": 50,
+    "title": "Sons of the Forest",
+    "genre": "Terror / Sobrevivência",
+    "rating": 8.4,
+    "year": 2024,
+    "developer": "Endnight Games",
+    "platforms": [
+      "PC"
+    ],
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1326470/header.jpg",
+    "cover": [
+      "#166534",
+      "#1F2937"
+    ],
+    "description": "Retorne a uma ilha perigosa em busca de um bilionário desaparecido. Construção flexível, IA companheira e ameaças grotescas ampliam a fórmula de sobrevivência."
+  },
+  {
+    "id": 51,
+    "title": "Raft",
+    "genre": "Sobrevivência / Construção",
+    "rating": 8.6,
+    "year": 2022,
+    "developer": "Redbeet Interactive",
+    "platforms": [
+      "PC"
+    ],
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/648800/header.jpg",
+    "cover": [
+      "#0891B2",
+      "#164E63"
+    ],
+    "description": "Comece em uma pequena jangada e transforme-a em uma base flutuante. Colete destroços, pesque, plante, explore ilhas e descubra o que aconteceu com o mundo."
+  },
+  {
+    "id": 52,
+    "title": "Project Zomboid",
+    "genre": "Sobrevivência / Simulação",
+    "rating": 8.9,
+    "year": 2013,
+    "developer": "The Indie Stone",
+    "platforms": [
+      "PC"
+    ],
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/108600/header.jpg",
+    "cover": [
+      "#4B5563",
+      "#111827"
+    ],
+    "description": "Sobreviva o máximo possível em um apocalipse zumbi altamente detalhado. Fome, ferimentos, barulho, clima e decisões ruins podem encerrar sua história rapidamente."
+  },
+  {
+    "id": 53,
+    "title": "RimWorld",
+    "genre": "Simulação / Estratégia",
+    "rating": 9.2,
+    "year": 2018,
+    "developer": "Ludeon Studios",
+    "platforms": [
+      "PC",
+      "PlayStation 4",
+      "Xbox One"
+    ],
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/294100/header.jpg",
+    "cover": [
+      "#A16207",
+      "#44403C"
+    ],
+    "description": "Gerencie colonos em um planeta hostil onde cada pessoa tem traços, necessidades e dramas próprios. O jogo cria histórias emergentes de sobrevivência, tragédia e caos."
+  },
+  {
+    "id": 54,
+    "title": "Factorio",
+    "genre": "Automação / Estratégia",
+    "rating": 9.6,
+    "year": 2020,
+    "developer": "Wube Software",
+    "platforms": [
+      "PC",
+      "Nintendo Switch"
+    ],
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/427520/header.jpg",
+    "cover": [
+      "#CA8A04",
+      "#713F12"
+    ],
+    "description": "Construa uma fábrica gigantesca automatizando mineração, produção, logística e defesa. Cada esteira, braço mecânico e circuito aproxima você de uma base mais eficiente."
+  },
+  {
+    "id": 55,
+    "title": "Satisfactory",
+    "genre": "Automação / Construção",
+    "rating": 9.0,
+    "year": 2024,
+    "developer": "Coffee Stain Studios",
+    "platforms": [
+      "PC"
+    ],
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/526870/header.jpg",
+    "cover": [
+      "#F97316",
+      "#7C2D12"
+    ],
+    "description": "Explore um planeta alienígena em primeira pessoa e crie linhas de produção enormes. Mineração, esteiras, energia e planejamento espacial viram um quebra-cabeça industrial viciante."
+  },
+  {
+    "id": 56,
+    "title": "Cities: Skylines",
+    "genre": "Simulação / Construção",
+    "rating": 8.8,
+    "year": 2015,
+    "developer": "Colossal Order",
+    "platforms": [
+      "PC",
+      "Nintendo Switch",
+      "PlayStation 4",
+      "Xbox One"
+    ],
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/255710/header.jpg",
+    "cover": [
+      "#0EA5E9",
+      "#0369A1"
+    ],
+    "description": "Planeje bairros, estradas, transporte público, serviços e economia de uma cidade em crescimento. Um simulador urbano flexível para quem gosta de resolver problemas de infraestrutura."
+  },
+  {
+    "id": 57,
+    "title": "Cities: Skylines II",
+    "genre": "Simulação / Construção",
+    "rating": 7.5,
+    "year": 2023,
+    "developer": "Colossal Order",
+    "platforms": [
+      "PC"
+    ],
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/949230/header.jpg",
+    "cover": [
+      "#0284C7",
+      "#0F172A"
+    ],
+    "description": "Expanda metrópoles modernas com sistemas mais complexos de tráfego, zonas e serviços. Uma continuação ambiciosa para fãs de planejamento urbano e gestão."
+  },
+  {
+    "id": 58,
+    "title": "Sid Meier's Civilization VI",
+    "genre": "Estratégia / 4X",
+    "rating": 8.9,
+    "year": 2016,
+    "developer": "Firaxis Games",
+    "platforms": [
+      "PC",
+      "Nintendo Switch",
+      "PlayStation 4",
+      "Xbox One",
+      "Mobile"
+    ],
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/289070/header.jpg",
+    "cover": [
+      "#2563EB",
+      "#92400E"
+    ],
+    "description": "Guie uma civilização da antiguidade até a era espacial. Diplomacia, ciência, cultura, religião e guerra disputam sua atenção em partidas longas e estratégicas."
+  },
+  {
+    "id": 59,
+    "title": "Crusader Kings III",
+    "genre": "Estratégia / Grand Strategy",
+    "rating": 8.9,
+    "year": 2020,
+    "developer": "Paradox Development Studio",
+    "platforms": [
+      "PC",
+      "PlayStation 5",
+      "Xbox Series X"
+    ],
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1158310/header.jpg",
+    "cover": [
+      "#7C2D12",
+      "#111827"
+    ],
+    "description": "Controle uma dinastia medieval cheia de casamentos, intrigas, guerras e heranças complicadas. Mais do que conquistar territórios, o objetivo é manter sua família viva e poderosa."
+  },
+  {
+    "id": 60,
+    "title": "Europa Universalis IV",
+    "genre": "Estratégia / Grand Strategy",
+    "rating": 8.8,
+    "year": 2013,
+    "developer": "Paradox Development Studio",
+    "platforms": [
+      "PC"
+    ],
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/236850/header.jpg",
+    "cover": [
+      "#1D4ED8",
+      "#78350F"
+    ],
+    "description": "Comande uma nação entre os séculos XV e XIX, expandindo influência por guerra, comércio, colonização e diplomacia. Um grande sandbox histórico para estrategistas pacientes."
+  },
+  {
+    "id": 61,
+    "title": "Total War: WARHAMMER III",
+    "genre": "Estratégia / Tática",
+    "rating": 8.5,
+    "year": 2022,
+    "developer": "Creative Assembly",
+    "platforms": [
+      "PC"
+    ],
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1142710/header.jpg",
+    "cover": [
+      "#991B1B",
+      "#4C1D95"
+    ],
+    "description": "Misture campanha por turnos com batalhas em tempo real no universo sombrio de Warhammer. Facções demoníacas, monstros gigantes e exércitos fantásticos disputam o mapa."
+  },
+  {
+    "id": 62,
+    "title": "Age of Empires II: Definitive Edition",
+    "genre": "Estratégia / RTS",
+    "rating": 9.0,
+    "year": 2019,
+    "developer": "Forgotten Empires",
+    "platforms": [
+      "PC",
+      "Xbox One",
+      "Xbox Series X"
+    ],
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/813780/header.jpg",
+    "cover": [
+      "#B45309",
+      "#1F2937"
+    ],
+    "description": "Um clássico da estratégia em tempo real renovado com gráficos, civilizações e campanhas extras. Colete recursos, avance eras e lidere exércitos em batalhas históricas."
+  },
+  {
+    "id": 63,
+    "title": "Frostpunk",
+    "genre": "Estratégia / Sobrevivência",
+    "rating": 8.8,
+    "year": 2018,
+    "developer": "11 bit studios",
+    "platforms": [
+      "PC",
+      "PlayStation 4",
+      "Xbox One"
+    ],
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/323190/header.jpg",
+    "cover": [
+      "#475569",
+      "#0F172A"
+    ],
+    "description": "Administre a última cidade da Terra em um mundo congelado. Cada lei, construção e sacrifício pesa na sobrevivência da população e na sua própria moralidade."
+  },
+  {
+    "id": 64,
+    "title": "Anno 1800",
+    "genre": "Estratégia / Construção",
+    "rating": 8.7,
+    "year": 2019,
+    "developer": "Ubisoft Mainz",
+    "platforms": [
+      "PC",
+      "PlayStation 5",
+      "Xbox Series X"
+    ],
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/916440/header.jpg",
+    "cover": [
+      "#0F766E",
+      "#92400E"
+    ],
+    "description": "Construa cidades industriais, rotas comerciais e cadeias produtivas complexas durante a Revolução Industrial. Beleza visual e logística profunda andam lado a lado."
+  },
+  {
+    "id": 65,
+    "title": "Oxygen Not Included",
+    "genre": "Simulação / Sobrevivência",
+    "rating": 8.9,
+    "year": 2019,
+    "developer": "Klei Entertainment",
+    "platforms": [
+      "PC"
+    ],
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/457140/header.jpg",
+    "cover": [
+      "#0E7490",
+      "#1E293B"
+    ],
+    "description": "Gerencie duplicantes presos em um asteroide, equilibrando oxigênio, temperatura, comida, energia e higiene. Pequenos erros podem virar desastres sistêmicos divertidíssimos."
+  },
+  {
+    "id": 66,
+    "title": "Kerbal Space Program",
+    "genre": "Simulação / Espaço",
+    "rating": 9.0,
+    "year": 2015,
+    "developer": "Squad",
+    "platforms": [
+      "PC",
+      "PlayStation 4",
+      "Xbox One"
+    ],
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/220200/header.jpg",
+    "cover": [
+      "#16A34A",
+      "#1E40AF"
+    ],
+    "description": "Projete foguetes, tente alcançar órbita e aprenda física espacial na prática. Cada explosão ensina algo novo sobre engenharia, gravidade e planejamento."
+  },
+  {
+    "id": 67,
+    "title": "Euro Truck Simulator 2",
+    "genre": "Simulação / Direção",
+    "rating": 8.9,
+    "year": 2012,
+    "developer": "SCS Software",
+    "platforms": [
+      "PC"
+    ],
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/227300/header.jpg",
+    "cover": [
+      "#2563EB",
+      "#1E3A8A"
+    ],
+    "description": "Dirija caminhões por estradas europeias, entregue cargas e expanda sua transportadora. Uma experiência relaxante de direção, economia e exploração rodoviária."
+  },
+  {
+    "id": 68,
+    "title": "American Truck Simulator",
+    "genre": "Simulação / Direção",
+    "rating": 8.8,
+    "year": 2016,
+    "developer": "SCS Software",
+    "platforms": [
+      "PC"
+    ],
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/270880/header.jpg",
+    "cover": [
+      "#DC2626",
+      "#1E40AF"
+    ],
+    "description": "Percorra rodovias dos Estados Unidos transportando cargas e administrando sua empresa. Longas viagens, paisagens amplas e direção tranquila são o foco."
+  },
+  {
+    "id": 69,
+    "title": "Microsoft Flight Simulator",
+    "genre": "Simulação / Aviação",
+    "rating": 9.0,
+    "year": 2020,
+    "developer": "Asobo Studio",
+    "platforms": [
+      "PC",
+      "Xbox Series X"
+    ],
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1250410/header.jpg",
+    "cover": [
+      "#0EA5E9",
+      "#1D4ED8"
+    ],
+    "description": "Pilote aeronaves pelo mundo inteiro com clima, mapas e aeroportos detalhados. Um simulador impressionante tanto para voos casuais quanto para entusiastas da aviação."
+  },
+  {
+    "id": 70,
+    "title": "F1 23",
+    "genre": "Corrida / Simulação",
+    "rating": 8.4,
+    "year": 2023,
+    "developer": "Codemasters",
+    "platforms": [
+      "PC",
+      "PlayStation 4",
+      "PlayStation 5",
+      "Xbox One",
+      "Xbox Series X"
+    ],
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/2108330/header.jpg",
+    "cover": [
+      "#DC2626",
+      "#111827"
+    ],
+    "description": "Entre no campeonato de Fórmula 1 com carros velozes, pistas oficiais e modos competitivos. Estratégia de pneus, clima e precisão nas curvas fazem diferença."
+  },
+  {
+    "id": 71,
+    "title": "Assetto Corsa Competizione",
+    "genre": "Corrida / Simulação",
+    "rating": 8.7,
+    "year": 2019,
+    "developer": "Kunos Simulazioni",
+    "platforms": [
+      "PC",
+      "PlayStation 4",
+      "PlayStation 5",
+      "Xbox One",
+      "Xbox Series X"
+    ],
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/805550/header.jpg",
+    "cover": [
+      "#DC2626",
+      "#1F2937"
+    ],
+    "description": "Foque em corridas GT com física detalhada, clima dinâmico e pistas escaneadas. Um simulador exigente para quem busca pilotagem técnica e realista."
+  },
+  {
+    "id": 72,
+    "title": "DiRT Rally 2.0",
+    "genre": "Corrida / Rally",
+    "rating": 8.6,
+    "year": 2019,
+    "developer": "Codemasters",
+    "platforms": [
+      "PC",
+      "PlayStation 4",
+      "Xbox One"
+    ],
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/690790/header.jpg",
+    "cover": [
+      "#92400E",
+      "#111827"
+    ],
+    "description": "Enfrente estradas de terra, lama, neve e asfalto em provas de rally intensas. Controle fino, leitura de terreno e coragem nas curvas definem bons tempos."
+  },
+  {
+    "id": 73,
+    "title": "Rocket League",
+    "genre": "Esporte / Corrida",
+    "rating": 8.8,
+    "year": 2015,
+    "developer": "Psyonix",
+    "platforms": [
+      "PC",
+      "Nintendo Switch",
+      "PlayStation 4",
+      "Xbox One"
+    ],
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/252950/header.jpg",
+    "cover": [
+      "#2563EB",
+      "#EA580C"
+    ],
+    "description": "Futebol com carros, turbos e acrobacias aéreas. Fácil de entender e difícil de dominar, o jogo brilha em partidas rápidas e competitivas."
+  },
+  {
+    "id": 74,
+    "title": "TEKKEN 8",
+    "genre": "Luta",
+    "rating": 8.7,
+    "year": 2024,
+    "developer": "Bandai Namco Studios",
+    "platforms": [
+      "PC",
+      "PlayStation 5",
+      "Xbox Series X"
+    ],
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1778820/header.jpg",
+    "cover": [
+      "#DC2626",
+      "#7C3AED"
+    ],
+    "description": "A clássica série de luta retorna com combates agressivos, elenco robusto e visuais modernos. O sistema Heat incentiva pressão constante e partidas explosivas."
+  },
+  {
+    "id": 75,
+    "title": "Street Fighter 6",
+    "genre": "Luta",
+    "rating": 9.0,
+    "year": 2023,
+    "developer": "Capcom",
+    "platforms": [
+      "PC",
+      "PlayStation 4",
+      "PlayStation 5",
+      "Xbox Series X"
+    ],
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1364780/header.jpg",
+    "cover": [
+      "#2563EB",
+      "#F97316"
+    ],
+    "description": "Um dos maiores nomes da luta volta com controles modernos, World Tour e excelente modo online. Técnica, leitura do adversário e execução seguem no centro da experiência."
+  },
+  {
+    "id": 76,
+    "title": "Mortal Kombat 11",
+    "genre": "Luta",
+    "rating": 8.5,
+    "year": 2019,
+    "developer": "NetherRealm Studios",
+    "platforms": [
+      "PC",
+      "Nintendo Switch",
+      "PlayStation 4",
+      "Xbox One"
+    ],
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/976310/header.jpg",
+    "cover": [
+      "#F59E0B",
+      "#111827"
+    ],
+    "description": "Combates brutais, personagens icônicos e golpes cinematográficos definem esta entrada da franquia. A campanha mistura viagem no tempo, rivalidades e muito espetáculo."
+  },
+  {
+    "id": 77,
+    "title": "Guilty Gear -Strive-",
+    "genre": "Luta / Anime",
+    "rating": 8.8,
+    "year": 2021,
+    "developer": "Arc System Works",
+    "platforms": [
+      "PC",
+      "PlayStation 4",
+      "PlayStation 5",
+      "Xbox One",
+      "Xbox Series X"
+    ],
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1384160/header.jpg",
+    "cover": [
+      "#DC2626",
+      "#F59E0B"
+    ],
+    "description": "Lutas estilizadas com visual de anime, trilha pesada e sistemas profundos. É uma porta de entrada acessível para Guilty Gear sem perder complexidade competitiva."
+  },
+  {
+    "id": 78,
+    "title": "Dota 2",
+    "genre": "MOBA",
+    "rating": 9.0,
+    "year": 2013,
+    "developer": "Valve",
+    "platforms": [
+      "PC"
+    ],
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/570/header.jpg",
+    "cover": [
+      "#991B1B",
+      "#1F2937"
+    ],
+    "description": "Dois times disputam controle do mapa em partidas estratégicas cheias de heróis, itens e decisões táticas. Cada jogo pode mudar completamente com uma boa luta em equipe."
+  },
+  {
+    "id": 79,
+    "title": "Counter-Strike 2",
+    "genre": "FPS / Competitivo",
+    "rating": 8.8,
+    "year": 2023,
+    "developer": "Valve",
+    "platforms": [
+      "PC"
+    ],
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/730/header.jpg",
+    "cover": [
+      "#F97316",
+      "#1F2937"
+    ],
+    "description": "Terroristas e contra-terroristas se enfrentam em rodadas rápidas onde mira, economia e comunicação são essenciais. Um dos FPS competitivos mais tradicionais do PC."
+  },
+  {
+    "id": 80,
+    "title": "Team Fortress 2",
+    "genre": "FPS / Equipe",
+    "rating": 8.9,
+    "year": 2007,
+    "developer": "Valve",
+    "platforms": [
+      "PC"
+    ],
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/440/header.jpg",
+    "cover": [
+      "#DC2626",
+      "#2563EB"
+    ],
+    "description": "Escolha classes carismáticas e participe de batalhas caóticas baseadas em objetivos. Humor, identidade visual forte e trabalho em equipe mantêm o jogo vivo há anos."
+  },
+  {
+    "id": 81,
+    "title": "Apex Legends",
+    "genre": "Battle Royale / FPS",
+    "rating": 8.5,
+    "year": 2020,
+    "developer": "Respawn Entertainment",
+    "platforms": [
+      "PC",
+      "Nintendo Switch",
+      "PlayStation 4",
+      "PlayStation 5",
+      "Xbox One",
+      "Xbox Series X"
+    ],
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1172470/header.jpg",
+    "cover": [
+      "#DC2626",
+      "#7C2D12"
+    ],
+    "description": "Um battle royale veloz com heróis, habilidades e movimentação refinada. Comunicação por ping, tiroteios intensos e esquadrões tornam as partidas dinâmicas."
+  },
+  {
+    "id": 82,
+    "title": "PUBG: BATTLEGROUNDS",
+    "genre": "Battle Royale / FPS",
+    "rating": 8.3,
+    "year": 2017,
+    "developer": "KRAFTON",
+    "platforms": [
+      "PC",
+      "PlayStation 4",
+      "Xbox One"
+    ],
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/578080/header.jpg",
+    "cover": [
+      "#CA8A04",
+      "#1F2937"
+    ],
+    "description": "Caia em mapas enormes, procure equipamentos e tente ser o último sobrevivente. Tensão, posicionamento e controle de recuo fazem cada confronto importar."
+  },
+  {
+    "id": 83,
+    "title": "Tom Clancy's Rainbow Six Siege",
+    "genre": "FPS / Tático",
+    "rating": 8.6,
+    "year": 2015,
+    "developer": "Ubisoft Montreal",
+    "platforms": [
+      "PC",
+      "PlayStation 4",
+      "PlayStation 5",
+      "Xbox One",
+      "Xbox Series X"
+    ],
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/359550/header.jpg",
+    "cover": [
+      "#1F2937",
+      "#0F172A"
+    ],
+    "description": "Ataque ou defenda ambientes destrutíveis usando operadores com habilidades únicas. Informação, mira e coordenação em equipe são tão importantes quanto velocidade."
+  },
+  {
+    "id": 84,
+    "title": "Warframe",
+    "genre": "Ação / Online",
+    "rating": 8.7,
+    "year": 2013,
+    "developer": "Digital Extremes",
+    "platforms": [
+      "PC",
+      "Nintendo Switch",
+      "PlayStation 4",
+      "PlayStation 5",
+      "Xbox One",
+      "Xbox Series X"
+    ],
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/230410/header.jpg",
+    "cover": [
+      "#4F46E5",
+      "#0F172A"
+    ],
+    "description": "Controle guerreiros espaciais ágeis em missões cooperativas cheias de loot, habilidades e parkour. A progressão envolve montar warframes, armas e builds cada vez mais fortes."
+  },
+  {
+    "id": 85,
+    "title": "Destiny 2",
+    "genre": "FPS / MMO",
+    "rating": 8.4,
+    "year": 2019,
+    "developer": "Bungie",
+    "platforms": [
+      "PC",
+      "PlayStation 4",
+      "PlayStation 5",
+      "Xbox One",
+      "Xbox Series X"
+    ],
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1085660/header.jpg",
+    "cover": [
+      "#2563EB",
+      "#1F2937"
+    ],
+    "description": "Lute como um Guardião em atividades cooperativas, campanhas, raides e PvP. Tiro preciso, poderes elementais e busca por equipamentos sustentam a experiência."
+  },
+  {
+    "id": 86,
+    "title": "Deep Rock Galactic",
+    "genre": "Cooperativo / FPS",
+    "rating": 9.1,
+    "year": 2020,
+    "developer": "Ghost Ship Games",
+    "platforms": [
+      "PC",
+      "PlayStation 4",
+      "PlayStation 5",
+      "Xbox One",
+      "Xbox Series X"
+    ],
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/548430/header.jpg",
+    "cover": [
+      "#CA8A04",
+      "#166534"
+    ],
+    "description": "Anões espaciais mineram cavernas alienígenas cheias de insetos e perigos. Cada classe contribui para exploração, combate e extração em missões cooperativas excelentes."
+  },
+  {
+    "id": 87,
+    "title": "HELLDIVERS 2",
+    "genre": "Cooperativo / Ação",
+    "rating": 8.8,
+    "year": 2024,
+    "developer": "Arrowhead Game Studios",
+    "platforms": [
+      "PC",
+      "PlayStation 5"
+    ],
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/553850/header.jpg",
+    "cover": [
+      "#FACC15",
+      "#111827"
+    ],
+    "description": "Defenda a Super Terra em missões cooperativas caóticas contra insetos e máquinas. Fogo amigo, estratagemas orbitais e objetivos sob pressão criam momentos hilários."
+  },
+  {
+    "id": 88,
+    "title": "Phasmophobia",
+    "genre": "Terror / Cooperativo",
+    "rating": 8.7,
+    "year": 2020,
+    "developer": "Kinetic Games",
+    "platforms": [
+      "PC"
+    ],
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/739630/header.jpg",
+    "cover": [
+      "#1F2937",
+      "#111827"
+    ],
+    "description": "Investigue locais assombrados usando equipamentos para identificar fantasmas. Voz, pistas, sanidade e sustos fazem cada caçada ser tensa com amigos."
+  },
+  {
+    "id": 89,
+    "title": "Lethal Company",
+    "genre": "Terror / Cooperativo",
+    "rating": 8.6,
+    "year": 2023,
+    "developer": "Zeekerss",
+    "platforms": [
+      "PC"
+    ],
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1966720/header.jpg",
+    "cover": [
+      "#F97316",
+      "#111827"
+    ],
+    "description": "Colete sucata em luas abandonadas enquanto monstros e dívidas ameaçam sua equipe. Comunicação, improviso e pânico tornam cada expedição engraçada e perigosa."
+  },
+  {
+    "id": 90,
+    "title": "Among Us",
+    "genre": "Social Deduction",
+    "rating": 8.2,
+    "year": 2018,
+    "developer": "Innersloth",
+    "platforms": [
+      "PC",
+      "Nintendo Switch",
+      "PlayStation 4",
+      "PlayStation 5",
+      "Xbox One",
+      "Xbox Series X",
+      "Mobile"
+    ],
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/945360/header.jpg",
+    "cover": [
+      "#DC2626",
+      "#2563EB"
+    ],
+    "description": "Tripulantes precisam completar tarefas enquanto impostores sabotam e eliminam jogadores. Discussões, suspeitas e blefes são o coração de cada partida."
+  },
+  {
+    "id": 91,
+    "title": "Goose Goose Duck",
+    "genre": "Social Deduction",
+    "rating": 8.1,
+    "year": 2021,
+    "developer": "Gaggle Studios",
+    "platforms": [
+      "PC",
+      "Mobile"
+    ],
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1568590/header.jpg",
+    "cover": [
+      "#0891B2",
+      "#0F766E"
+    ],
+    "description": "Gansos tentam cumprir tarefas enquanto patos infiltrados causam caos. Papéis especiais e modos variados deixam as deduções mais imprevisíveis."
+  },
+  {
+    "id": 92,
+    "title": "It Takes Two",
+    "genre": "Cooperativo / Aventura",
+    "rating": 9.2,
+    "year": 2021,
+    "developer": "Hazelight Studios",
+    "platforms": [
+      "PC",
+      "PlayStation 4",
+      "PlayStation 5",
+      "Xbox One",
+      "Xbox Series X"
+    ],
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1426210/header.jpg",
+    "cover": [
+      "#DB2777",
+      "#7C3AED"
+    ],
+    "description": "Dois jogadores controlam um casal transformado em bonecos em uma jornada criativa. Cada fase muda mecânicas e exige cooperação constante."
+  },
+  {
+    "id": 93,
+    "title": "Overcooked! 2",
+    "genre": "Cooperativo / Casual",
+    "rating": 8.5,
+    "year": 2018,
+    "developer": "Ghost Town Games",
+    "platforms": [
+      "PC",
+      "Nintendo Switch",
+      "PlayStation 4",
+      "Xbox One"
+    ],
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/728880/header.jpg",
+    "cover": [
+      "#F97316",
+      "#DC2626"
+    ],
+    "description": "Cozinhe pratos em cozinhas absurdas enquanto o caos toma conta. Coordenação, divisão de tarefas e gritaria amigável fazem parte da diversão."
+  },
+  {
+    "id": 94,
+    "title": "Sea of Thieves",
+    "genre": "Aventura / Online",
+    "rating": 8.4,
+    "year": 2020,
+    "developer": "Rare Ltd",
+    "platforms": [
+      "PC",
+      "Xbox One",
+      "Xbox Series X"
+    ],
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1172620/header.jpg",
+    "cover": [
+      "#0891B2",
+      "#065F46"
+    ],
+    "description": "Navegue com amigos em busca de tesouros, batalhas navais e histórias piratas. O mar aberto cria encontros inesperados com outros jogadores."
+  },
+  {
+    "id": 95,
+    "title": "Grand Theft Auto V",
+    "genre": "Ação / Mundo Aberto",
+    "rating": 9.2,
+    "year": 2015,
+    "developer": "Rockstar North",
+    "platforms": [
+      "PC",
+      "PlayStation 3",
+      "PlayStation 4",
+      "PlayStation 5",
+      "Xbox 360",
+      "Xbox One",
+      "Xbox Series X"
+    ],
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/271590/header.jpg",
+    "cover": [
+      "#16A34A",
+      "#0F172A"
+    ],
+    "description": "Três criminosos protagonizam assaltos, perseguições e conflitos em Los Santos. O mundo aberto mistura sátira, ação cinematográfica e liberdade para causar caos."
+  },
+  {
+    "id": 96,
+    "title": "Persona 5 Royal",
+    "genre": "JRPG",
+    "rating": 9.4,
+    "year": 2022,
+    "developer": "ATLUS",
+    "platforms": [
+      "PC",
+      "Nintendo Switch",
+      "PlayStation 4",
+      "PlayStation 5",
+      "Xbox One",
+      "Xbox Series X"
+    ],
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1687950/header.jpg",
+    "cover": [
+      "#DC2626",
+      "#111827"
+    ],
+    "description": "Viva a rotina de estudantes que também atuam como ladrões fantasma em mundos mentais. Combates por turno, estilo visual marcante e laços sociais movem a aventura."
+  },
+  {
+    "id": 97,
+    "title": "Yakuza: Like a Dragon",
+    "genre": "JRPG / Ação",
+    "rating": 8.8,
+    "year": 2020,
+    "developer": "Ryu Ga Gotoku Studio",
+    "platforms": [
+      "PC",
+      "PlayStation 4",
+      "PlayStation 5",
+      "Xbox One",
+      "Xbox Series X"
+    ],
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1235140/header.jpg",
+    "cover": [
+      "#B91C1C",
+      "#F59E0B"
+    ],
+    "description": "Ichiban Kasuga recomeça do zero em Yokohama em uma história cheia de drama, humor e lealdade. O combate por turnos transforma brigas de rua em batalhas de RPG."
+  },
+  {
+    "id": 98,
+    "title": "Like a Dragon: Infinite Wealth",
+    "genre": "JRPG",
+    "rating": 9.0,
+    "year": 2024,
+    "developer": "Ryu Ga Gotoku Studio",
+    "platforms": [
+      "PC",
+      "PlayStation 4",
+      "PlayStation 5",
+      "Xbox One",
+      "Xbox Series X"
+    ],
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/2072450/header.jpg",
+    "cover": [
+      "#0EA5E9",
+      "#F59E0B"
+    ],
+    "description": "Ichiban e Kazuma Kiryu vivem uma aventura grandiosa entre Japão e Havaí. Minigames, drama, humor e combate por turnos criam um pacote enorme e carismático."
+  },
+  {
+    "id": 99,
+    "title": "NieR:Automata",
+    "genre": "Ação / RPG",
+    "rating": 9.2,
+    "year": 2017,
+    "developer": "PlatinumGames",
+    "platforms": [
+      "PC",
+      "PlayStation 4",
+      "Xbox One",
+      "Nintendo Switch"
+    ],
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/524220/header.jpg",
+    "cover": [
+      "#9CA3AF",
+      "#374151"
+    ],
+    "description": "Androides lutam contra máquinas em uma Terra abandonada, questionando propósito, humanidade e memória. Mistura ação elegante, múltiplas perspectivas e uma trilha sonora marcante."
+  },
+  {
+    "id": 100,
+    "title": "DOOM Eternal",
+    "genre": "FPS / Ação",
+    "rating": 9.1,
+    "year": 2020,
+    "developer": "id Software",
+    "platforms": [
+      "PC",
+      "Nintendo Switch",
+      "PlayStation 4",
+      "PlayStation 5",
+      "Xbox One",
+      "Xbox Series X"
+    ],
+    "image": "https://cdn.cloudflare.steamstatic.com/steam/apps/782330/header.jpg",
+    "cover": [
+      "#DC2626",
+      "#064E3B"
+    ],
+    "description": "Rasgue e despedace demônios em arenas frenéticas onde movimento, mira e gerenciamento de recursos são essenciais. Um FPS agressivo, veloz e cheio de energia."
   }
 ]
